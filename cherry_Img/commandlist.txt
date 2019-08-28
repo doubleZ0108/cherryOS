@@ -1,18 +1,18 @@
 ====================================================================
-#                                                                  #
 #         *******                         Welcome to               #
 #            **                            cherryOS                #
 #       ****  **                                                   #
 #     ******   **                       [COMMAND LIST]             #
-#   ******      **                                                 #
-#   ****      **  **                                               #
-#            **    **                                              #
-#        ******     ****                                           #
-#      **********  ******                                          #
-#      **********   ****                                           #
-#        ******                                                    #
-#                                                                  #
-#                                                                  #
+#   ******      **            $ help                               #
+#   ****      **  **              --- show the command list        #
+#            **    **         $ man [command]                      #
+#        ******     ****          --- know more about the command  #
+#      **********  ******     $ game [-option]                     #
+#      **********   ****          --- play the built-in game       #
+#        ******               $ math [expression]                  #
+#                                 --- calculate the value          #
+#                             $ cal [-option]                      #
+#                                 --- date information             #
 #                                                                  #
 #                                                                  #
 #                                                                  #

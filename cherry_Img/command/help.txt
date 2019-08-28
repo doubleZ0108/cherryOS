@@ -1,0 +1,21 @@
+====================================================================
+#         *******                         Welcome to               #
+#            **                            cherryOS                #
+#       ****  **                                                   #
+#     ******   **                                                  #
+#   ******      **                                                 #
+#   ****      **  **                 <COMMAND --- help>            #
+#            **    **                                              #
+#        ******     ****         Show the command list again.      #
+#      **********  ******      And you can input these commands    #
+#      **********   ****         to interact with the cherryOS.    #
+#        ******                                                    #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#               Powered by doubleZ, budi, flyingfish               #
+#                       ALL RIGHT REVERSED                         #
+====================================================================
