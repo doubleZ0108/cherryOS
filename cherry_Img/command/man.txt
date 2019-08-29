@@ -1,0 +1,21 @@
+====================================================================
+#         *******                         Welcome to               #
+#            **                            cherryOS                #
+#        ***  **                                                   #
+#     ******   **                                                  #
+#   ******      **                                                 #
+#   ****      **  **                  <COMMAND --- man>            #
+#            **    **                                              #
+#        ******     ****            Know you want to know.         #
+#      **********  ******          Just input man [command]        #
+#      **********   ****         man will tell you everything.     #
+#        ******                Find a man when you have trouble.   #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#               Powered by doubleZ, budi, flyingfish               #
+#                       ALL RIGHT REVERSED                         #
+====================================================================
