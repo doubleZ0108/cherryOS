@@ -4,11 +4,11 @@
 #        ***  **                                                   #
 #     ******   **                                                  #
 #   ******      **                                                 #
-#   ****      **  **                 <COMMAND --- help>            #
+#   ****      **  **                 <COMMAND --- clear>           #
 #            **    **                                              #
-#        ******     ****         Show the command list again.      #
-#      **********  ******      And you can input these commands    #
-#      **********   ****         to interact with the cherryOS.    #
+#        ******     ****        Clear the whole command station.   #
+#      **********  ******          You can enjoy yourself in       #
+#      **********   ****         interacting with the cherryOS.    #
 #        ******                                                    #
 #                                                                  #
 #                                                                  #

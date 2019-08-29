@@ -1,8 +1,8 @@
 ====================================================================
 #         *******                         Welcome to               #
 #            **                            cherryOS                #
-#       ****  **                                                   #
-#     ******   **                    <COMMAND --- game>            #
+#        ***  **                                                   #
+#     ******   **                      <COMMAND --- game>          #
 #   ******      **              You can play the build-in game     #
 #   ****      **  **                  by adding [-option].         #
 #            **    **                                              #

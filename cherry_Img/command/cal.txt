@@ -1,0 +1,21 @@
+====================================================================
+#         *******                         Welcome to               #
+#            **                            cherryOS                #
+#        ***  **                                                   #
+#     ******   **                      <COMMAND --- cal>           #
+#   ******      **                You can search in a calendar     #
+#   ****      **  **              with adding different option.    #
+#            **    **                                              #
+#        ******     ****    [OPTION LIST]                          #
+#      **********  ******     -month [Y/M] -> search for a month   #
+#      **********   ****      -week [Y/M/D] -> what day is it      #
+#        ******               -date [Y/M/D] -> location of a date  #
+#                                                                  #
+#                           [EXAMPLE]                              #
+#                                  cal -month 2019/12              #
+#                                  cal -week 2017/11/11            #
+#                                  cal -date 2019/8/31             #
+#                                                                  #
+#               Powered by doubleZ, budi, flyingfish               #
+#                       ALL RIGHT REVERSED                         #
+====================================================================

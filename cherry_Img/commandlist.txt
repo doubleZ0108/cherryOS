@@ -1,10 +1,10 @@
 ====================================================================
 #         *******                         Welcome to               #
 #            **                            cherryOS                #
-#       ****  **                                                   #
+#        ***  **                                                   #
 #     ******   **                       [COMMAND LIST]             #
-#   ******      **            $ help                               #
-#   ****      **  **              --- show the command list        #
+#   ******      **            $ help --- show the command list     #
+#   ****      **  **          $ clear --- clear the cmd            #
 #            **    **         $ man [command]                      #
 #        ******     ****          --- know more about the command  #
 #      **********  ******     $ game [-option]                     #

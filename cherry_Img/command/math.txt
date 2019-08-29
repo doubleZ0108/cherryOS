@@ -1,7 +1,7 @@
 ====================================================================
 #         *******                         Welcome to               #
 #            **                            cherryOS                #
-#       ****  **                                                   #
+#        ***  **                                                   #
 #     ******   **                     <COMMAND --- math>           #
 #   ******      **            You can calculate the value of the   #
 #   ****      **  **           expression by adding [expression].  #
@@ -10,9 +10,9 @@
 #      **********  ******       in math [+-*/] and also support    #
 #      **********   ****     the bucket[()] to change the priority #
 #        ******                                                    #
+#                                                                  #
 #                             [EXAMPLE]                            #
 #                                math 1+2-(3*4)/5                  #
-#                                                                  #
 #                                                                  #
 #                                                                  #
 #                                                                  #
