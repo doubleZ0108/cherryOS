@@ -9,7 +9,7 @@
 #        ******     ****          --- know more about the command  #
 #      **********  ******     $ game [-option]                     #
 #      **********   ****          --- play the built-in game       #
-#        ******               $ math [expression]                  #
+#        ******               $ math [-option] [expression]        #
 #                                 --- calculate the value          #
 #                             $ cal [-option]                      #
 #                                 --- date information             #
