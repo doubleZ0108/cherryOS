@@ -10,8 +10,7 @@
 #     $ ls                |   list the elements in this level      #
 #     $ cd [dirname]      |   switch work path to this directory   #
 #     $ cd ..             |   return to the superior directory     #
-#     $ rm [filename]     |   delete a file                        #
-#     $ rm -r [dirname]   |   delete a directory                   #
+#     $ rm [name]         |   delete a file or directory           #
 #     $ help              |   show command list of this system     #
 #     $ clear             |   clear the cmd                        #
 #                                                                  #

@@ -8,13 +8,13 @@
 #            **    **                                              #
 #        ******     ****    [OPTION LIST]                          #
 #      **********  ******      -2048 -> for 2048 game              #
-#      **********   ****       -snake -> for Gluttonous Snake game #
-#        ******                -plane -> for Hunting Plane game    #
-#                              -bird -> for Flying Bird game       #
+#      **********   ****       -chess -> for Chess game            #
+#        ******                -mine -> for Mine Sweeping game     #
+#                              -tictactoe -> for TicTacToe game    #
 #                                                                  #
 #                           [EXAMPLE]                              #
-#                              game -snake -> play Snake game      #
-#                              game -> play a random game          #
+#                              game -chess -> play Chess game      #
+#                                                                  #
 #                                                                  #
 #               Powered by doubleZ, budi, flyingfish               #
 #                       ALL RIGHT REVERSED                         #
