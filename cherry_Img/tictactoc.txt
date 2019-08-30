@@ -1,0 +1,21 @@
+====================================================================
+#         *******                         Welcome to               #
+#            **                            cherryOS                #
+#        ***  **                                                   #
+#     ******   **                                                  #
+#   ******      **                         Instruction             #
+#   ****      **  **               set: O--uesr X--computer        #
+#            **    **            You can choose to play first or   #
+#        ******     ****        let the computer first. Enter 'x'  #
+#      **********  ******        from1,2,3,and then 'y' the same.  #
+#      **********   ****         Can you defeat the computer?      #
+#        ******                                                    #
+#                                 PS:you can enter'q' to quit      #
+#                                    before the game start.        #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#               Powered by doubleZ, budi, flyingfish               #
+#                       ALL RIGHT REVERSED                         #
+====================================================================
