@@ -1,0 +1,21 @@
+====================================================================
+#                            Welcome to                  ******    #
+#                     cherryOS ~ Process Manager         **   *    #
+#                                                        ******    #
+#                                                        **        #
+#                                                        **        #
+#             [COMMAND]                 [FUNCTION]                 #
+#                                                                  #
+#           $ ps           |     show all process                  #
+#           $ kill [id]    |     kill a process                    #
+#           $ restart [id] |     restart a process                 #
+#           $ quit         |     quit process management system    #
+#           $ help         |     show command list of this system  #
+#           $ clear        |     clear the cmd                     #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#                                                                  #
+#               Powered by doubleZ, budi, flyingfish               #
+#                       ALL RIGHT REVERSED                         #
+====================================================================

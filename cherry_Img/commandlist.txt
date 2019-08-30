@@ -13,8 +13,8 @@
 #                                 --- calculate the value          #
 #                             $ cal [-option]                      #
 #                                 --- date information             #
-#                                                                  #
-#                                                                  #
+#                             $ process --- process manager        #
+#                             $ file --- file manager              #
 #                                                                  #
 #               Powered by doubleZ, budi, flyingfish               #
 #                       ALL RIGHT REVERSED                         #

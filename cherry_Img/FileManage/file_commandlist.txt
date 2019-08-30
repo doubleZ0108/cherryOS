@@ -1,0 +1,21 @@
+====================================================================
+#                            Welcome to                  ******    #
+#                     cherryOS ~ File Manager            **        #
+#                                                        ******    #
+#                                                        **        #
+#         [COMMAND]                 [FUNCTION]           **        #
+#                                                                  #
+#     $ touch [filename]  |   create a new .txt file               #
+#     $ mkdir [dirname]   |   create a new folder                  #
+#     $ ls                |   list the elements in this level      #
+#     $ cd [dirname]      |   switch work path to this directory   #
+#     $ cd ..             |   return to the superior directory     #
+#     $ rm [filename]     |   delete a file                        #
+#     $ rm -r [dirname]   |   delete a directory                   #
+#     $ help              |   show command list of this system     #
+#     $ clear             |   clear the cmd                        #
+#                                                                  #
+#                                                                  #
+#               Powered by doubleZ, budi, flyingfish               #
+#                       ALL RIGHT REVERSED                         #
+====================================================================

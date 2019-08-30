@@ -1,0 +1,21 @@
+====================================================================
+#         *******                         Welcome to               #
+#            **                            cherryOS                #
+#        ***  **                                                   #
+#     ******   **                                                  #
+#   ******      **                 <COMMAND --- file>              #
+#   ****      **  **             You can do file management        #
+#            **    **          at our File Management System.      #
+#        ******     ****       You can also use [Ctrl+F2] to       #
+#      **********  ******   enter into our File Management System. #
+#      **********   ****                                           #
+#        ******             [COMMAND LIST]                         #
+#                           touch [filename]  |   mkdir [dirname]  #
+#                                  ls         |       help         #
+#                             cd [dirname]    |       cd ..        #
+#                             rm [filename]   |  rm -r [dirname]   #
+#                                 clear       |       quit         #
+#                                                                  #
+#               Powered by doubleZ, budi, flyingfish               #
+#                       ALL RIGHT REVERSED                         #
+====================================================================
