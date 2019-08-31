@@ -1,0 +1,481 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curr",
+				"currFatherDir"
+			],
+			[
+				"print",
+				"printf	printf …"
+			],
+			[
+				"f",
+				"filename"
+			],
+			[
+				"delete",
+				"deleteDirRecord"
+			],
+			[
+				"strc",
+				"strcpy"
+			],
+			[
+				"str",
+				"strcpy"
+			],
+			[
+				"open",
+				"openDir"
+			],
+			[
+				"cur",
+				"currDir"
+			],
+			[
+				"file",
+				"fileaname"
+			],
+			[
+				"shw",
+				"showCharSeq"
+			],
+			[
+				"pr",
+				"printf	printf …"
+			],
+			[
+				"show",
+				"showTree"
+			],
+			[
+				"is",
+				"isDir"
+			],
+			[
+				"test",
+				"TestB"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "kernel/main.c",
+			"settings":
+			{
+				"buffer_size": 34980,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/klib.c",
+			"settings":
+			{
+				"buffer_size": 2945,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "kernel/proc.c",
+			"settings":
+			{
+				"buffer_size": 19224,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/zhaoshiyu/Documents/example/src",
+		"/home/zhaoshiyu/Documents/example/src/include",
+		"/home/zhaoshiyu/Documents/example/src/kernel",
+		"/home/zhaoshiyu/Documents/example/src/lib"
+	],
+	"file_history":
+	[
+		"/home/zhaoshiyu/Desktop/main.c",
+		"/home/zhaoshiyu/Documents/example/src/kernel/main.c",
+		"/home/zhaoshiyu/Documents/example/src/fs/main.c",
+		"/home/zhaoshiyu/Documents/example/src/kernel/proc.c",
+		"/home/zhaoshiyu/Documents/example/src/include/sys/proto.h",
+		"/home/zhaoshiyu/Documents/example/src/lib/misc.c",
+		"/home/zhaoshiyu/Documents/example/src/fs/misc.c",
+		"/home/zhaoshiyu/Documents/example/src/include/sys/fs.h",
+		"/home/zhaoshiyu/Documents/example/src/lib/read.c",
+		"/home/zhaoshiyu/Documents/example/src/lib/klib.c",
+		"/home/zhaoshiyu/Documents/example/src/include/sys/keyboard.h",
+		"/home/zhaoshiyu/Documents/example/src/kernel/tty.c",
+		"/home/zhaoshiyu/Documents/example/src/lib/write.c",
+		"/home/zhaoshiyu/Documents/example/src/include/stdio.h",
+		"/home/zhaoshiyu/Documents/example/src/lib/fileTree.c",
+		"/home/zhaoshiyu/Documents/example/src/include/string.h",
+		"/home/zhaoshiyu/Documents/example/src/include/sys/tty.h",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter10/e/kernel/main.c",
+		"/home/zhaoshiyu/Documents/example/src/include/sys/const.h",
+		"/home/zhaoshiyu/Documents/example/src/fs/open.c",
+		"/home/zhaoshiyu/Documents/example/src/fs/link.c",
+		"/home/zhaoshiyu/Documents/example/src/fs/disklog.c",
+		"/home/zhaoshiyu/Documents/example/src/fs/read_write.c",
+		"/home/zhaoshiyu/Documents/example/src/os.sublime-project",
+		"/home/zhaoshiyu/Documents/example/src/kernel/kernel.asm",
+		"/home/zhaoshiyu/Documents/example/src/include/sys/sconst.inc",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter10/a/lib/misc.c",
+		"/home/zhaoshiyu/Documents/example/src/lib/vsprintf.c",
+		"/home/zhaoshiyu/Documents/example/src/lib/unlink.c",
+		"/home/zhaoshiyu/Documents/example/src/lib/syslog.c",
+		"/home/zhaoshiyu/Documents/example/src/lib/syscall.asm",
+		"/home/zhaoshiyu/Documents/example/src/lib/string.asm",
+		"/home/zhaoshiyu/Documents/example/src/lib/printf.c",
+		"/home/zhaoshiyu/Documents/example/src/lib/open.c",
+		"/home/zhaoshiyu/Documents/example/src/lib/kliba.asm",
+		"/home/zhaoshiyu/Documents/example/src/lib/getpid.c",
+		"/home/zhaoshiyu/Documents/example/src/lib/close.c",
+		"/home/zhaoshiyu/Documents/example/src/kernel/keyboard.c",
+		"/home/zhaoshiyu/Documents/example/src/kernel/i8259.c",
+		"/home/zhaoshiyu/Documents/example/src/kernel/hd.c",
+		"/home/zhaoshiyu/Documents/example/src/kernel/global.c",
+		"/home/zhaoshiyu/Documents/example/src/kernel/console.c",
+		"/home/zhaoshiyu/Documents/example/src/kernel/clock.c",
+		"/home/zhaoshiyu/Documents/example/src/kernel/systask.c",
+		"/home/zhaoshiyu/Documents/example/src/kernel/start.c",
+		"/home/zhaoshiyu/Documents/example/src/kernel/protect.c",
+		"/home/zhaoshiyu/Documents/example/src/scripts/genlog",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter10/e/kernel/tty.c",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter11/a/kernel/main.c",
+		"/home/zhaoshiyu/Documents/example/src/bochsrc",
+		"/home/zhaoshiyu/Documents/周世鹏_082948/src/kernel/main.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/kernel/main.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/lib/read.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/fs/disklog.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/fs/main.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/fs/misc.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/fs/open.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/include/sys/fs.h",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter11/c/lib/printf.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/fs/read_write.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/lib/syscall.asm",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/lib/write.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/lib/vsprintf.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/include/stdio.h",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/fs/link.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/j/kernel/kernel.asm",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter9/i/fs/misc.c",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter9/i/include/sys/proc.h",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter9/i/include/sys/fs.h",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter9/i/fs/open.c",
+		"/home/zhaoshiyu/Documents/ORANGES/chapter9/f/fs/read_write.c",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter9/i/fs/main.c",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter5/c/fat12hdr.inc",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter5/c/loader.asm",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter9/i/include/sys/tty.h",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter9/i/fs/link.c",
+		"/home/zhaoshiyu/Desktop/pmtest1.asm",
+		"/home/zhaoshiyu/Documents/bochs-2.6.7/boot.asm",
+		"/home/zhaoshiyu/Desktop/ORANGES'_自己动手写操作系统_光盘源代码/chapter3/a/pmtest1.asm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"game",
+			"help",
+			"startAnimate",
+			"calcu",
+			"printPath",
+			"saveTreeToDsik",
+			"createDir",
+			"search",
+			"game",
+			"tesa",
+			"isThereFile",
+			"showTree",
+			"currPathDepth",
+			"spin",
+			"openDir",
+			"getTreeInfo",
+			"deleteR",
+			"getTreeInfo",
+			"treeInfo",
+			"printf",
+			"m",
+			"rdbuf",
+			"%s",
+			"saveTreeToDsik",
+			"write",
+			"4096",
+			"getTreeInfo",
+			"treeInfo",
+			"currFatherDir",
+			"ttt",
+			"strcmp",
+			"				\n",
+			"atoi",
+			"TREE_DEPTH",
+			"TTT",
+			"testb",
+			"select_console",
+			"raw_code",
+			"testa",
+			"proc_table",
+			"testc",
+			"exception_handler",
+			"kernel_main",
+			"sys_call_table",
+			"AutoDone",
+			"console_table",
+			"clear_screen",
+			"clear",
+			"O_RDWR",
+			"tty_name",
+			"fd_stdin",
+			"rdbuf",
+			"read",
+			"i_dev",
+			"len",
+			"off",
+			"TestA",
+			"sync_inode",
+			"task_fs",
+			"rw_sector",
+			"WR_SECT",
+			"driver_msg",
+			"mkfs",
+			"kernelfile"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "kernel/main.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 34980,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1394,
+								1488
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1285.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/klib.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2945,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1783,
+								1783
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "kernel/proc.c",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 19224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1177,
+								1177
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 459.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "os.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 183.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
