@@ -8,13 +8,13 @@
 #            **    **                                              #
 #        ******     ****    [OPTION LIST]                          #
 #      **********  ******      -2048 -> for 2048 game              #
-#      **********   ****       -chess -> for Chess game            #
+#      **********   ****       -chess -> for Five Chess game       #
 #        ******                -mine -> for Mine Sweeping game     #
 #                              -tictactoe -> for TicTacToe game    #
+#                              -pushbox -> for PushBox game        #
 #                                                                  #
 #                           [EXAMPLE]                              #
-#                              game -chess -> play Chess game      #
-#                                                                  #
+#                              game -chess -> play Five Chess game #
 #                                                                  #
 #               Powered by doubleZ, budi, flyingfish               #
 #                       ALL RIGHT REVERSED                         #
