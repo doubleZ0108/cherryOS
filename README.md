@@ -193,7 +193,7 @@ Table of Contents
 
 #### 	无该指令
 
-![not found](Interface/man/not found.png)
+![not found](Interface/man/not-found.png)
 
 #### 	man help
 
@@ -245,11 +245,11 @@ Table of Contents
 
 ##### 	不可结束：
 
-![kill system process](Interface/进程管理/kill system process.png)
+![kill system process](Interface/进程管理/kill_system_process.png)
 
 ##### 	id非法：
 
-![kill exceed](Interface/进程管理/kill exceed.png)
+![kill exceed](Interface/进程管理/kill_exceed.png)
 
 ##### 	成功执行：
 
@@ -265,11 +265,11 @@ Table of Contents
 
 ##### 	正在运行：
 
-![restart running](Interface/进程管理/restart running.png)
+![restart running](Interface/进程管理/restart_running.png)
 
 ##### 	id非法：
 
-![restart exceed](Interface/进程管理/restart exceed.png)
+![restart exceed](Interface/进程管理/restart_exceed.png)
 
 ### 3.5 系统级应用—文件管理
 
@@ -451,7 +451,7 @@ Table of Contents
 
 ​	游戏界面
 
-![swep mine](Interface/game/swep mine.png)
+![swep mine](Interface/game/swepmine.png)
 
 ## 4. 功能实现
 
